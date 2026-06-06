@@ -1,6 +1,6 @@
 # Data_Analysis
 More focused on analysis
-# Análisis de Churn de Clientes
+# Análisis de desercion de Clientes
 
 ## Descripción del Proyecto
 Este proyecto analiza el abandono de clientes (churn) para identificar patrones y variables
@@ -19,8 +19,14 @@ Dataset de clientes que incluye:
 ## Proceso de Análisis
 1. Limpieza y preparación de datos
 2. Análisis exploratorio (EDA)
-3. Comparación de clientes activos vs churn
-4. Identificación de variables clave
+   - Que se busca
+   - Vision de Dataset
+   - Analisis de la variable objetivo
+   - Analisis de las variables que la describen
+   - Segmentación de categorias
+   - Correlaciones y conclusiones
+4. Comparación de clientes activos vs churn
+5. Identificación de variables clave
 
 ## Análisis Claves
 - Tasa de churn global
@@ -31,7 +37,6 @@ Dataset de clientes que incluye:
 - Python
 - pandas
 - seaborn / matplotlib
-- Jupyter Notebook
 
 ## Insights Principales
 - Identificación de perfiles con mayor probabilidad de abandono
@@ -41,4 +46,3 @@ Dataset de clientes que incluye:
 - Acciones de retención focalizadas
 - Intervenciones tempranas según perfil
 
-## Estructura del Proyecto
